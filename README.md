@@ -2,6 +2,8 @@
 
 Project built to find your favorite dishes!
 
+![alt text](https://raw.githubusercontent.com/zyzmoz/recipe-search/misc/screen.png)
+
 ## This project uses:
 - React
 - Redux
