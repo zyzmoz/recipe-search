@@ -2,7 +2,7 @@
 
 Project built to find your favorite dishes!
 
-![Screenshot](https://raw.githubusercontent.com/zyzmoz/recipe-search/misc/screen.png)
+![Screenshot](https://github.com/zyzmoz/recipe-search/blob/master/misc/screen.png?raw=true)
 
 ## This project uses:
 - React
