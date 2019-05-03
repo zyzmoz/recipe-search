@@ -1,0 +1,3 @@
+export const GET_TRENDING_RECIPES = 'GET_TRENDING_RECIPES';
+export const QUERY_RECIPES = 'QUERY_RECIPES';
+export const GET_RECIPE = 'GET_RECIPE';

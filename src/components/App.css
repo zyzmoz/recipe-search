@@ -1,0 +1,14 @@
+.app {
+  width: 100%;      
+}
+.app-header {
+  width: 100%;
+  text-align: center;    
+  background-image: linear-gradient(to right,#4a89dc, #97c1f8);  
+}
+
+.app-title {
+  font-size: 25px;
+  padding: 12px;
+  color: #F5F7FA;
+}
